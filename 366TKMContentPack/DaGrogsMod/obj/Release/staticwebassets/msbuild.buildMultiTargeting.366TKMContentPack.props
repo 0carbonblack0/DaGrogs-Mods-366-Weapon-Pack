@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\366TKMContentPack.props" />
+</Project>
